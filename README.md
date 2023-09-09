@@ -1,4 +1,4 @@
-# Leetcode
+# Algorithm Beat
 This is a repository which including some powerful tools to solve leetcode problems more effectively.
 The java_version and c++_version refer to the tool of algorithm beat.
 To lounch this tool, what you need to do as followed:
